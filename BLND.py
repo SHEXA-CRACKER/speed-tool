@@ -77,9 +77,9 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 085691015635\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m      [¤] \x1b[1;93mFACEBOOK : tools termux\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS MR.BLACK0304\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr black0304\x1b[1;96m"""
+print  """\033[1;96m [¤] \x1b[1;93mSHEX BLND\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mTELEGRAM :@shex_cracker \x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mSHEX YUNS \x1b[1;96m      [¤] \x1b[1;93msnapchat : shexam2798\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mGithub : SHEXA-CRACKER\x1b[1;96m  [¤] \x1b[1;93msnapchat  :k4ro_2 \x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "SHEX"
